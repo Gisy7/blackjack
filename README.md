@@ -1,3 +1,3 @@
 # BlackJack Vite
 
-Mi proyecto       
+Mi proyecto de Javascript
